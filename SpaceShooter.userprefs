@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Done/Done_Scripts/Done_PlayerController.cs">
+    <Files>
+      <File FileName="Assets/Done/Done_Scripts/Done_PlayerController.cs" Line="85" Column="5" />
+      <File FileName="Assets/Done/Done_Scripts/Done_GameController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/crnorman/SpaceShooter/Assets/Done/Done_Scripts/Done_PlayerController.cs" line="61" />
+      <Breakpoint file="/Users/crnorman/SpaceShooter/Assets/Done/Done_Scripts/Done_PlayerController.cs" line="79" />
+      <Breakpoint file="/Users/crnorman/SpaceShooter/Assets/Done/Done_Scripts/Done_PlayerController.cs" line="42" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
